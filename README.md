@@ -7,4 +7,4 @@ Hi, here is a blueprint of this repository for your convenience:<br /><br />
 <b>All Extracted Graphs and Plots </b> &#x2192; <a href="https://github.com/harmeet-singh-bagga/AlgoTrading/tree/main/Graphics">Graphics</a><br /><br />
 
 Thanks and Regards<br />
-<a href="https://www.linkedin.com/in/harmeet-singh-bagga">Harmeet Singh</a>
+<a href="https://www.linkedin.com/in/harmeet-singh-bagga">Harmeet Singh Bagga</a>
